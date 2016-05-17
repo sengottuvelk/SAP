@@ -1,0 +1,2 @@
+FIELDNAME:E071K                           DATA ELEMENT:E071K                           DATA TYPE:STRU  DOMAIN:
+FIELDNAME:VALUES                          DATA ELEMENT:CHAR2048                        DATA TYPE:CHAR  DOMAIN:CHAR2048
