@@ -1,0 +1,15 @@
+FIELDNAME:MANDT                           DATA ELEMENT:MANDT                           DATA TYPE:CLNT  DOMAIN:MANDT
+FIELDNAME:DATUM                           DATA ELEMENT:DATUM                           DATA TYPE:DATS  DOMAIN:DATUM
+FIELDNAME:UZEIT                           DATA ELEMENT:UZEIT                           DATA TYPE:TIMS  DOMAIN:UZEIT
+FIELDNAME:UNAME                           DATA ELEMENT:UNAME                           DATA TYPE:CHAR  DOMAIN:UNAME
+FIELDNAME:TRKORR                          DATA ELEMENT:TRKORR                          DATA TYPE:CHAR  DOMAIN:TRKORR
+FIELDNAME:PGMID                           DATA ELEMENT:PGMID                           DATA TYPE:CHAR  DOMAIN:PGMID
+FIELDNAME:OBJECT                          DATA ELEMENT:TROBJTYPE                       DATA TYPE:CHAR  DOMAIN:OBJECT
+FIELDNAME:OBJNAME                         DATA ELEMENT:OBJNAME                         DATA TYPE:CHAR  DOMAIN:OBJNAME
+FIELDNAME:VIEWNAME                        DATA ELEMENT:VIEWNAME                        DATA TYPE:CHAR  DOMAIN:VIEWNAME
+FIELDNAME:TABKEY                          DATA ELEMENT:TROBJ_NAME                      DATA TYPE:CHAR  DOMAIN:TROBJ_NAME
+FIELDNAME:LENGTH                          DATA ELEMENT:INT2                            DATA TYPE:INT2  DOMAIN:INT2
+FIELDNAME:CONFIG1                         DATA ELEMENT:CHAR255                         DATA TYPE:CHAR  DOMAIN:CHAR255
+FIELDNAME:CONFIG2                         DATA ELEMENT:CHAR255                         DATA TYPE:CHAR  DOMAIN:CHAR255
+FIELDNAME:CONFIG3                         DATA ELEMENT:CHAR255                         DATA TYPE:CHAR  DOMAIN:CHAR255
+FIELDNAME:CONFIG4                         DATA ELEMENT:CHAR255                         DATA TYPE:CHAR  DOMAIN:CHAR255
