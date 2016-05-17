@@ -1,0 +1,4 @@
+FIELDNAME:MANDT                           DATA ELEMENT:MANDT                           DATA TYPE:CLNT  DOMAIN:MANDT
+FIELDNAME:NAME                            DATA ELEMENT:MANDT                           DATA TYPE:CLNT  DOMAIN:MANDT
+FIELDNAME:AGE                             DATA ELEMENT:INT2                            DATA TYPE:INT2  DOMAIN:INT2
+FIELDNAME:HEIGHT                          DATA ELEMENT:INT2                            DATA TYPE:INT2  DOMAIN:INT2
