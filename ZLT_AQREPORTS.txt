@@ -1,0 +1,2 @@
+FIELDNAME:TRDIR                           DATA ELEMENT:TRDIR                           DATA TYPE:STRU  DOMAIN:
+FIELDNAME:ABAPTXT255                      DATA ELEMENT:ABAPTXT255_TAB                  DATA TYPE:TTYP  DOMAIN:
