@@ -1,0 +1,2 @@
+FIELDNAME:NAME                            DATA ELEMENT:                                DATA TYPE:CHAR  DOMAIN:
+FIELDNAME:DATE                            DATA ELEMENT:                                DATA TYPE:CHAR  DOMAIN:
