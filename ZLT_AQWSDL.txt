@@ -1,0 +1,3 @@
+FIELDNAME:USER                            DATA ELEMENT:UNAME                           DATA TYPE:CHAR  DOMAIN:UNAME
+FIELDNAME:AQREPORTS                       DATA ELEMENT:ZTT_AQREPORTS                   DATA TYPE:TTYP  DOMAIN:
+FIELDNAME:HELPING                         DATA ELEMENT:CHAR1                           DATA TYPE:CHAR  DOMAIN:CHAR1
