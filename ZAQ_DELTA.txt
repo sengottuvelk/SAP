@@ -1,0 +1,7 @@
+FIELDNAME:MANDT                           DATA ELEMENT:MANDT                           DATA TYPE:CLNT  DOMAIN:MANDT
+FIELDNAME:UNAME                           DATA ELEMENT:UNAME                           DATA TYPE:CHAR  DOMAIN:UNAME
+FIELDNAME:DATUM                           DATA ELEMENT:DATUM                           DATA TYPE:DATS  DOMAIN:DATUM
+FIELDNAME:UZEIT                           DATA ELEMENT:UZEIT                           DATA TYPE:TIMS  DOMAIN:UZEIT
+FIELDNAME:OBJECT                          DATA ELEMENT:CHAR4                           DATA TYPE:CHAR  DOMAIN:CHAR4
+FIELDNAME:OBJ_NAME                        DATA ELEMENT:TROBJ_NAME                      DATA TYPE:CHAR  DOMAIN:TROBJ_NAME
+FIELDNAME:OBJ_NAME_COUNT                  DATA ELEMENT:TROBJ_NAME                      DATA TYPE:CHAR  DOMAIN:TROBJ_NAME
