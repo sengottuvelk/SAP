@@ -1,0 +1,11 @@
+FIELDNAME:UNAME                           DATA ELEMENT:UNAME                           DATA TYPE:CHAR  DOMAIN:UNAME
+FIELDNAME:LT_ABAP                         DATA ELEMENT:ABAPTXT255_TAB                  DATA TYPE:TTYP  DOMAIN:
+FIELDNAME:LT_TRDIR                        DATA ELEMENT:TRDIR_IT                        DATA TYPE:TTYP  DOMAIN:
+FIELDNAME:LT_DD04V                        DATA ELEMENT:TDT_DD04V                       DATA TYPE:TTYP  DOMAIN:
+FIELDNAME:LT_DD01V                        DATA ELEMENT:ESH_T_MU_DD01V                  DATA TYPE:TTYP  DOMAIN:
+FIELDNAME:LT_DD07V                        DATA ELEMENT:DD07V_TAB                       DATA TYPE:TTYP  DOMAIN:
+FIELDNAME:LT_DD02V                        DATA ELEMENT:DB4_DD02V_T                     DATA TYPE:TTYP  DOMAIN:
+FIELDNAME:LT_DD03V                        DATA ELEMENT:ZAQDD03V                        DATA TYPE:TTYP  DOMAIN:
+FIELDNAME:LT_DD40V                        DATA ELEMENT:ZAQDD40V                        DATA TYPE:TTYP  DOMAIN:
+FIELDNAME:LT_TEXTPOOL                     DATA ELEMENT:TABLE_OF_TEXTPOOL               DATA TYPE:TTYP  DOMAIN:
+FIELDNAME:LT_CONFIG                       DATA ELEMENT:ZTT_CONFIG                      DATA TYPE:TTYP  DOMAIN:
