@@ -1,0 +1,4 @@
+FIELDNAME:MANDT                           DATA ELEMENT:MANDT                           DATA TYPE:CLNT  DOMAIN:MANDT
+FIELDNAME:LASTNAME                        DATA ELEMENT:NAME                            DATA TYPE:CHAR  DOMAIN:NAME
+FIELDNAME:FIRSTNAME                       DATA ELEMENT:NAME                            DATA TYPE:CHAR  DOMAIN:NAME
+FIELDNAME:DATEOFBIRTH                     DATA ELEMENT:DATUM                           DATA TYPE:DATS  DOMAIN:DATUM
